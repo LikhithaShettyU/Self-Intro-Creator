@@ -14,5 +14,5 @@ Save to File (S): Saves the generated about section to a text file named about_s
 Both (B): Performs both actions (copying to clipboard and saving to file).
 
 Dependencies
-pyperclip library (for copying to clipboard)
+pyperclip library (for copying to clipboard).
 PyCharm (optional) - Integrated Development Environment (IDE) for Python development.
